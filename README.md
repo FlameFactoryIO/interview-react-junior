@@ -4,10 +4,10 @@
 
 ```bash
 # install dependencies
-yarn install
+npm install
 
 # run development server
-yarn dev
+npm run dev
 
 # open [http://localhost:3000](http://localhost:3000).
 ```
